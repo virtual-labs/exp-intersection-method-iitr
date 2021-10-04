@@ -1,39 +1,4 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+  "questions":[{"question":"The plane surfaces intersect in a ____________ the line of intersection between two curved surfaces is _________ and between a plane surface and curved surfaces is a _________","answers":{"a":"straight line, curve, curve","b":"straight line, straight line, curve","c":"straight line, curve, straight line","d":"curve, curve, curve"},"correctAnswer":"a"},{"question":"Which of the following methods of contouring is most suitable for a hilly terrain?","answers":{"a":"Tachometric method","b":"Direct method","c":"Square method","d":"Cross-sections method"},"correctAnswer":"a"},{"question":"The size of a plane table is","answers":{"a":"750 mm × 900 mm","b":"600 mm × 750 mm","c":"600 mm × 750 mm","d":"300 mm × 450 mm"},"correctAnswer":"c"},{"question":"Method of Intersection is used when","answers":{"a":"Distance between point & instrument is large","b":"Distance between point & instrument is small","c":"Distance between point & instrument is very small","d":"Distance between point & instrument is infinity"},"correctAnswer":"a"},{"question":"Method of Intersection is also known as ___________","answers":{"a":"Resection","b":"Radiation","c":"Graphical triangulation","d":"Traversing"},"correctAnswer":"c"}]
 }

@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To plot the details by Intersection Method using Plane Table.
