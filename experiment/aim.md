@@ -1,1 +1,1 @@
-#### To plot the details by Intersection Method using Plane Table.
+#### To plot the details by intersection method using plane table.

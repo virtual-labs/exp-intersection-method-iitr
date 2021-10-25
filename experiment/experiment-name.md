@@ -1,1 +1,1 @@
-## Detail Plotting by Intersection method.
+## Detail plotting by intersection method.
