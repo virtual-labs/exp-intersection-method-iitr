@@ -65,8 +65,8 @@ function flag()
 
     if($('#n').css('display') === 'none')
 {
-    setTimeout(function(){ document.getElementById("alidade_img").src="images/a1.png"; }, 400);
-    setTimeout(function(){  document.getElementById("alidade_img").src="images/a2.png"; }, 800);   
+    setTimeout(function(){ document.getElementById("alidade_img").src="images/a1.PNG"; }, 400);
+    setTimeout(function(){  document.getElementById("alidade_img").src="images/a2.PNG"; }, 800);   
     setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-110px,-45px)scale(1.5)rotateY(120deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobja1img").style.display="inline"}, 400);
@@ -74,8 +74,8 @@ function flag()
     document.getElementById("lineobja1img").style.display="inline";*/
 }
 else
-{   setTimeout(function(){ document.getElementById("alidade_img").src="images/a1.png"; }, 400);
-    setTimeout(function(){  document.getElementById("alidade_img").src="images/a2.png"; }, 800);
+{   setTimeout(function(){ document.getElementById("alidade_img").src="images/a1.PNG"; }, 400);
+    setTimeout(function(){  document.getElementById("alidade_img").src="images/a2.PNG"; }, 800);
     setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-75px,-35px)scale(1.2)rotateY(170deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobjb1img").style.display="inline"}, 400);
@@ -89,8 +89,8 @@ function pole()
 {
     
     if($('#n').css('display') === 'none')
-   {    setTimeout(function(){ document.getElementById("alidade_img").src="images/b1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/b2.png"; }, 800);
+   {    setTimeout(function(){ document.getElementById("alidade_img").src="images/b1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/b2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-105px,-60px)scale(2)rotateY(110deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobja2img").style.display="inline"}, 400);
@@ -100,8 +100,8 @@ function pole()
   else
            
    {   
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/b1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/b2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/b1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/b2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-75px,-45px)scale(1.5)rotateY(160deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobjb2img").style.display="inline"}, 400);
@@ -116,8 +116,8 @@ function house()
 {
     if($('#n').css('display') === 'none')
     {
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/c1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/c2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/c1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/c2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-85px,-80px)scale(3)rotateY(89deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobja3img").style.display="inline"}, 400);
@@ -125,8 +125,8 @@ function house()
         document.getElementById("lineobja3img").style.display="inline";*/
     }
     else{
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/c1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/c2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/c1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/c2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-65px,-60px)scale(2)rotateY(120deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobjb3img").style.display="inline"}, 400);
@@ -139,8 +139,8 @@ function wind()
 {
     if($('#n').css('display') === 'none'){
 
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/d1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/d2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/d1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/d2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-65px,-65px)scale(2)rotateY(-290deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobja4img").style.display="inline"}, 400);
@@ -148,8 +148,8 @@ function wind()
         document.getElementById("lineobja4img").style.display="inline";*/
     }
     else{
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/d1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/d2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/d1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/d2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-55px,-60px)scale(2)rotateY(110deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobjb4img").style.display="inline"}, 400);
@@ -161,8 +161,8 @@ function wind()
 function tree()
 {   
     if($('#n').css('display') === 'none')
-    {   setTimeout(function(){ document.getElementById("alidade_img").src="images/e1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/e2.png"; }, 800);
+    {   setTimeout(function(){ document.getElementById("alidade_img").src="images/e1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/e2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-55px,-55px)scale(1.5)rotateY(-320deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobja5img").style.display="inline"}, 400);
@@ -174,8 +174,8 @@ function tree()
         
     }
   else{
-        setTimeout(function(){ document.getElementById("alidade_img").src="images/e1.png"; }, 400);
-        setTimeout(function(){  document.getElementById("alidade_img").src="images/e2.png"; }, 800);
+        setTimeout(function(){ document.getElementById("alidade_img").src="images/e1.PNG"; }, 400);
+        setTimeout(function(){  document.getElementById("alidade_img").src="images/e2.PNG"; }, 800);
         setTimeout(function(){ document.getElementById("drawobjimg").style.transform="translate(-50px,-70px)scale(2.5)rotateY(-265deg)"; }, 400);
     setTimeout(function(){  document.getElementById("drawobjimg").style.transform="translate(0px,0px)"; }, 800);
     setInterval(() => {document.getElementById("lineobjb5img").style.display="inline"}, 400);
