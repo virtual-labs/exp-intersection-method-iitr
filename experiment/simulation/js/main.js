@@ -255,6 +255,9 @@ function flag2()
    /* document.getElementById("drawobjimg").style.transform="translate(-75px,-35px)scale(1.2)rotateY(170deg)";
     document.getElementById("lineobjb1img").style.display="inline";*/
 }
+  
+  
+    
 
 
 function pole2()
