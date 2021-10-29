@@ -1,0 +1,86 @@
+<html>
+<head>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body >
+
+    <div id="main_ob_plot">
+    <div><marquee direction="left"><img id="birds" src="images\birds.gif"></marquee></div>
+    <a href="2.html"><img id="result" src="images\result.PNG" ></a>
+    <img id="r" src="images\reset.PNG" onclick="Reset()">
+    <img id="n" src="images\next.PNG" onclick="next()">
+        <a href="index.html"><img id="h" src="images\home.PNG"></a>
+
+    <div>
+    <div id="flag_div"><span id="flag-obj">Object 1 (Flag)</span>
+    <span><img id="flag" src="images\flag.PNG" onclick="flag()" class="obj"></span></div>
+    <div id="pole_div"><span id="pole-obj">Object 2 (Pole)</span>
+    <span><img id="pole" src="images\pole.PNG" onclick="pole()" class="obj"></span></div>
+    <div id="house_div"><span id="house-obj">Object 3 (House)</span>
+    <span><img id="house" src="images\house.PNG" onclick="house()" class="obj"></span></div>
+   <div id="wind_div"><span id="wind-obj">Object 4 (Wind Mill)</span>
+    <span> <img id="wind" src="images\wind.gif"  onclick="wind()" class="obj"></span></div>
+     <div id="tree_div"><span id="tree-obj">Object 5 (Tree)</span>
+     <img id="crow" src="images\crow.gif">
+    <span> <img id="tree" src="images\tree.PNG" onclick="tree()" class="obj"></span></div>
+    <img id="sc1_img" class="sc1_img" src="images\sc1.jpg" onclick="flag()">
+    <img id="sc2_img"  src="images\sc2.jpg" onclick="pole()">
+    <img id="sc3_img" src="images\sc3.jpg" onclick="house()">
+    <img id="sc4_img" src="images\sc4.jpg" onclick="wind()">
+    <img id="sc5_img" src="images\sc5.jpg" onclick="tree()">
+    </div>
+
+<div id="sheet">
+<img id="lineobja1img" src="images\l1_black.PNG" alt="linea1">
+<img id="lineobja2img" src="images\l2_black.PNG" alt="linea2">
+<img id="lineobja3img" src="images\l3_black.PNG" alt="linea3">
+<img id="lineobja4img" src="images\l4_black.PNG" alt="linea4">
+<img id="lineobja5img" src="images\l5_black.PNG" alt="linea5">
+<img id="lineobjb1img" src="images\l1_blackb.PNG" alt="lineb1">
+<img id="lineobjb2img" src="images\l2_blackb.PNG" alt="lineb2">
+<img id="lineobjb3img" src="images\l3_blackb.PNG" alt="lineb3">
+<img id="lineobjb4img" src="images\l4_blackb.PNG" alt="lineb4">
+<img id="lineobjb5img" src="images\l5_blackb.PNG" alt="lineb5">
+<img id="refa" src="images\refa.PNG" alt="ref point a">
+<img id="refdot1" src="images\refdot1.PNG" alt="ref dot1">
+<img id="refdot2" src="images\refdot2.PNG" alt="ref dot2">
+<img id="refb" src="images\refb.PNG" alt="ref point b">
+
+<img id="drawobjimg" src="images\drawobj.PNG" class="draw" alt="draw">
+</div>
+
+<div id="adilade_view"><center><img id="alidade_img" src="images\alidade.PNG"></center></div>
+<img id="stand_img" src="images\stand.PNG">
+<img id="tripodimg" src="images\tri.PNG" alt="tri">
+<div id="sheet2">
+    <img id="lineobja1img2" src="images\l1_black2.PNG" alt="linea1">
+    <img id="lineobja2img2" src="images\l2_black2.PNG" alt="linea2">
+    <img id="lineobja3img2" src="images\l3_black2.PNG" alt="linea3">
+    <img id="lineobja4img2" src="images\l4_black2.PNG" alt="linea4">
+    <img id="lineobja5img2" src="images\l5_black2.PNG" alt="linea5">
+    <img id="lineobjb1img2" src="images\l1_blackb2.PNG" alt="lineb1">
+    <img id="lineobjb2img2" src="images\l2_blackb2.PNG" alt="lineb2">
+    <img id="lineobjb3img2" src="images\l3_blackb2.PNG" alt="lineb3">
+    <img id="lineobjb4img2" src="images\l4_blackb2.PNG" alt="lineb4">
+    <img id="lineobjb5img2" src="images\l5_blackb2.PNG" alt="lineb5">
+    <img id="refa2" src="images\refa2.PNG" alt="ref point a">
+    <img id="refdot12" src="images\refdot12.PNG" alt="ref dot1">
+    <img id="refdot22" src="images\refdot22.PNG" alt="ref dot2">
+    <img id="refb2" src="images\refb2.PNG" alt="ref point b">
+    
+    <img id="drawobjimg2" src="images\drawobj2.PNG" class="draw" alt="draw">
+    </div>
+  
+<img id="tripodimg2" src="images\tri2.PNG" alt="tri">
+</div>
+ 
+<script src="js/main.js"></script>
+
+    
+<script src="js/main2.js"></script>
+</body>
+</html>
