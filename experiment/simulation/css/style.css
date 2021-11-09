@@ -380,7 +380,7 @@ position:absolute;
     float:left;
     position: absolute;
     cursor: pointer;
-
+     z-index: 1;
 }
 #sc2_img{
     height:100px;
@@ -390,6 +390,7 @@ position:absolute;
     float:left;
     position: absolute;
     cursor: pointer;
+     z-index: 1;
 }
 #sc3_img{
     height:60px;
@@ -399,6 +400,7 @@ position:absolute;
     float:left;
     position: absolute;
     cursor: pointer;
+     z-index: 1;
 }
 #sc4_img{
     height:120px;
@@ -409,6 +411,7 @@ position:absolute;
     float:left;
     position: absolute;
     cursor: pointer;
+     z-index: 1;
 }
 #sc5_img{
     height:120px;
@@ -419,6 +422,7 @@ position:absolute;
     float:left;
     position: absolute;
     cursor: pointer;
+     z-index: 1;
 } 
 #back_info{
 margin-left: 350px;
