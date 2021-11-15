@@ -373,3 +373,28 @@ function tree2()
     
        
 }
+
+
+
+function show_ar(){
+ 
+    document.getElementById("downarrow").style.display="inline";
+  
+  }
+  
+  function fl_br_based()
+  {   
+  
+      if(document.getElementById("browser_based").style.display === "none" && document.getElementById("flash_based").style.display === "none")
+      {   document.getElementById("browser_based").style.display="inline";
+          document.getElementById("flash_based").style.display="inline";
+          
+      }
+      else
+      {
+          document.getElementById("browser_based").style.display="none";
+          document.getElementById("flash_based").style.display="none";
+  
+      }
+  
+  }
