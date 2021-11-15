@@ -35,7 +35,6 @@ An unknown point can be established by measuring its direction from two known po
 7) Measure the long distances with clinometer and clinopole observations, wherever possible.<br>
 8) This method is accurate than raditaion method but less accurate.<br>
 
-<br><br>
 #### Don'ts<br>
 1) Don't waste too much of time to carryout exact centering of plane table, particularly in hilly area. It should be set close by within the plotting accuracy limit.<br>
 2) Ignore plotting the fields having dimensions less than the plotting accuracy.<br>
