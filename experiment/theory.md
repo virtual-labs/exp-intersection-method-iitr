@@ -5,6 +5,7 @@ This experiment is useful to study detail plotting by intersection method.<br>
 ### Principle<br>
 An unknown point can be established by measuring its direction from two known points.
 <br><br>
+
 ### Equipments Used<br>
 1) Plane table with tripod.<br>
 2) Alidade.<br>
